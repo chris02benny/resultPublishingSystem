@@ -25,7 +25,7 @@
                             <div class="card-body text-center p-5">
                                 <i class="fas fa-user-graduate fa-4x mb-4 text-primary"></i>
                                 <h3 class="card-title mb-4">Student Login</h3>
-                                <p class="card-text mb-4">Access your results and academic information</p>
+                                <p class="card-text mb-4">Access your academic information</p>
                                 <a href="student/login.php" class="btn btn-primary btn-lg">Login as Student</a>
                             </div>
                         </div>
